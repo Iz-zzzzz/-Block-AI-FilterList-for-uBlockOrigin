@@ -1477,20 +1477,20 @@
 
 
 # // AI content farms/spam
-||boddeswasusi.github.io^$doc
-||linuxcapable.com^$doc
-||stl24.com^$doc
-||outsourceit.today^$doc
-||metaroids.com^$doc
-||90creators.com^$doc
-||gachax.com/anime^$doc
-||ocfchess.org^$doc
-||onexception.dev^$doc
-||maroonchess.com^$doc
-||samurai-gamers.com^$doc
-||zleague.gg^$doc
-||dinosaur.org^$doc
-||disciplines.ng^$doc
+||boddeswasusi.github.io^$all
+||linuxcapable.com^$all
+||stl24.com^$all
+||outsourceit.today^$all
+||metaroids.com^$all
+||90creators.com^$all
+||gachax.com/anime^$all
+||ocfchess.org^$all
+||onexception.dev^$all
+||maroonchess.com^$all
+||samurai-gamers.com^$all
+||zleague.gg^$all
+||dinosaur.org^$all
+||disciplines.ng^$all
 
 
 # // VoiceMod shit
