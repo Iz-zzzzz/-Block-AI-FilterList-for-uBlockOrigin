@@ -5,7 +5,7 @@ A huge network request fliterlist of sites (~950) that contain AI generated cont
 
 ### One-click filter import
 
-If you have uBlock Origin installed, click [this link](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Iz-zzzzz%2FBlock-AI-FilterList-for-uBlockOrigin%2Frefs%2Fheads%2Fmain%2Flist_for_uBlock_Origin.text&title=Sites%20using%20AI%20generated%20content) to import the filter list in just a click! Quick and simple.
+If you have uBlock Origin installed, click [this link](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2FIz-zzzzz%2FBlock-AI-FilterList-for-uBlockOrigin%2Frefs%2Fheads%2Fmain%2Flist_for_uBlock_Origin.text&title=Sites%20using%20AI%20generated%20content) to import the filter list in just a click! Quick and simple.
 
 ### Manual Import
 
