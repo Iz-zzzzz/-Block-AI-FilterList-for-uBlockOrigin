@@ -1,13 +1,13 @@
 # Block-AI-FilterList-for-uBlockOrigin
 A huge network request fliterlist of sites (~950) that contain AI generated content, for the purposes of blocking access to site that contains AI generated content with uBlock Origin. 
 
-## Installing the blocklist for uBlock Origin
+## Installing the blocklist for uBlock Origin, AdGuard Extension
 
 ### One-click filter import
 
 If you have uBlock Origin installed, click [this link](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2FIz-zzzzz%2FBlock-AI-FilterList-for-uBlockOrigin%2Frefs%2Fheads%2Fmain%2Flist_for_uBlock_Origin&title=Sites%20using%20AI%20generated%20content) to import the filter list in just a click! Quick and simple.
 
-### Manual Import
+### Manual Import for other extension or Brave Browser
 
 1. Make sure that you have the uBlock Origin Extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), or any browser that supports uBO (& Android via Firefox or Kiwi Browser).
 
@@ -19,7 +19,7 @@ If you have uBlock Origin installed, click [this link](https://subscribe.adblock
 
 5. Copy and paste this URL into the dialogue box: 
 ```
-https://raw.githubusercontent.com/Iz-zzzzz/Block-AI-FilterList-for-uBlockOrigin/refs/heads/main/list_for_uBlock_Origin.text
+https://raw.githubusercontent.com/Iz-zzzzz/Block-AI-FilterList-for-uBlockOrigin/refs/heads/main/list_for_uBlock_Origin
 ```
 
 6. Apply changes, and you're set!
@@ -28,18 +28,9 @@ uBlock Origin will automatically refresh the filter list once a day, so you'll a
 
 If you want to force an update of the filter list, pressing the stopwatch next to the newly added list, then pressing ```Update now``` will achieve that.
 
-### For Adguard:
-
-1. Open Adguard Home Dashboard
-2. Go to filters --> DNS blocklists.
-3. Click `Add blocklist`, then `Add a custom list`.
-4. Enter the name of the list (eg. AI blocklist) into the first dialogue box.
-5. Copy and paste the url into the second dialogue box.
-6. Hit save, and the list is added!
-
 
 ## Allowlisting sites
-Don't like a website being blocked? You can easily create an allowlist in your own personal uBlock Origin or uBlacklist filter list. 
+Don't like a website being blocked? You can easily create an allowlist in your own personal uBlock Origin filter list. 
 
 Here's how to do it. 
 
